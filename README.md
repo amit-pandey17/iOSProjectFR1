@@ -1,6 +1,6 @@
 ## Fetch Rewards iOS exercise.
 
-###In this iOS assignment, I have created the application to fetch the API from Seatgeek website.
+### In this iOS assignment, I have created the application to fetch the API from Seatgeek website.
 1. For this, I generated the client ID as directed in the seatgeek API documentation
 2. I could succesfully hit the URL with client ID and I got the JSON data
 3. I modelled the incoming data in such a way that I get the desired output
